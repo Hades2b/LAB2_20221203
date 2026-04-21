@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="operativo">#3FFF48</color>
+    <color name="en_mantenimiento">#FFEB3B</color>
+    <color name="fuera_de_servicio">#FF3625</color>
+
+
 </resources>
