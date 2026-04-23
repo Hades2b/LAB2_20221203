@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Material3.Dark.NoActionBar">
         <activity
+            android:name=".EquipoDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".ListaActivity"
             android:exported="false" />
         <activity
